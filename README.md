@@ -44,6 +44,10 @@ graph LR
 
 ---
 
+## Vanilla
+
+> Check Codifsh Vanilla [demo showcase](https://files.catbox.moe/nmq963.mp4).
+
 ## Author
 
 Gonçalo Amaro @ 2025
