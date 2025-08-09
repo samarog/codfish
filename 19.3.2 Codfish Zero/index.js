@@ -634,7 +634,7 @@
     addMetric(
       "Frases Longas",
       analytics.longSentencesPercentage.toFixed(1) + "%",
-      "média " + analytics.averageWordsPerSentence + " palavras/sent.",
+      "média " + analytics.averageWordsPerSentence + " palavras/frase",
       percentColor(analytics.longSentencesPercentage)
     );
     // Content structure
