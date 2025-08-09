@@ -12,9 +12,12 @@
 
 ---
 
-| 🇬🇧 **Project Structure** | 🇵🇹 **Estrutura do Projeto** |
+| 🇬🇧 **Project Structure** / 🇵🇹 **Estrutura do Projeto** | --- |
 | --- | --- |
-| ```<br>/<br>├── index.html # Main page structure<br>├── index.css  # Styles and theming (light/dark)<br>└── index.js   # Application logic and text analysis<br>``` | ```<br>/<br>├── index.html # Estrutura principal da página<br>├── index.css  # Estilos e tema (claro/escuro)<br>└── index.js   # Lógica da aplicação e análise de texto<br>``` |
+| /
+├── index.html # Main page structure
+├── index.css # Styles and theming (light/dark)
+└── index.js # Application logic and text analysis |
 
 ---
 
