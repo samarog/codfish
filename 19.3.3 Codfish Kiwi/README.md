@@ -14,13 +14,21 @@
 
 | 🇬🇧 **How to Use** | 🇵🇹 **Como Usar** |
 | --- | --- |
-| ### Local Test<br>```bash<br># Serve static files<br>python -m http.server 8000<br># or<br>npx serve .<br>```<br><br>### Regenerate Build<br>If you need to regenerate this build:<br>```bash<br>npm run build:dev-static<br>``` | ### Teste Local<br>```bash<br># Servir arquivos estáticos<br>python -m http.server 8000<br># ou<br>npx serve .<br>```<br><br>### Regenerar Build<br>Se necessário, regenere este build:<br>```bash<br>npm run build:dev-static<br>``` |
 
----
-
-| 🇬🇧 **File Structure** | 🇵🇹 **Estrutura de Arquivos** |
-| --- | --- |
-| ```<br>19.3 Codfish Light/<br>├── index.html     <br>├── index.css      # Tailwind (non-minified)<br>├── index.js       # JavaScript (non-minified)<br>├── assets/<br>│   ├── bg.png<br>│   └── favicon.svg     <br>└── README.md      <br>``` | ```<br>19.3 Codfish Light/<br>├── index.html     <br>├── index.css      # Tailwind (não minificado)<br>├── index.js       # JavaScript (não minificado)<br>├── assets/<br>│   ├── bg.png<br>│   └── favicon.svg     <br>└── README.md      <br>``` |
+### Local Test
+> Serve static files:
+  ```bash
+  python -m http.server 8000
+```
+OR
+```
+npx serve .
+```
+### Regenerate Build
+> If you need to regenerate this build:
+```
+npm run build:dev-static
+```
 
 ---
 
