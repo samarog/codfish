@@ -13,8 +13,8 @@
 | 🇬🇧 **Version** | 🇵🇹 **Versão** | Description / Descrição |
 | --- | --- | --- |
 | **Seed** (v0.1) | **Seed** (v0.1) | **EN:** Minimal static HTML + JS build with basic metrics: word/sentence count, keyword density, Flesch-Kincaid score, passive voice detection, and reading level. No styling framework.<br>**PT:** Build estático mínimo em HTML + JS com métricas básicas: contagem de palavras/frases, densidade de palavras-chave, índice Flesch-Kincaid, deteção de voz passiva e nível de leitura. Sem framework de estilos. |
-| **Zero - Dev Build** (v0.4) | **Zero - Dev Build** (v0.4) | **EN:** Written to work **without external dependencies** (no React, Tailwind, or third-party libraries).<br>**PT:** Desenvolvido para funcionar **sem dependências externas** (sem React, Tailwind ou bibliotecas de terceiros). |
-| **Kiwi - Dev Build** (v0.5.3) | **Kiwi - Dev Build** (v0.5.3) | **EN:** Non-minified static build with Tailwind CSS and JS kept readable for easy editing, includes source maps and full feature set. Heavier but fully editable.<br>**PT:** Build estático não minificado com Tailwind CSS e JS mantidos legíveis para fácil edição, inclui *source maps* e conjunto completo de funcionalidades. Mais pesado mas totalmente editável. |
+| **Zero - Dev Build** (v0.4) | **Zero** (v0.4) | **EN:** Written to work **without external dependencies** (no React, Tailwind, or third-party libraries).<br>**PT:** Desenvolvido para funcionar **sem dependências externas** (sem React, Tailwind ou bibliotecas de terceiros). |
+| **Kiwi - Dev Build** (v0.5.3) | **Kiwi** (v0.5.3) | **EN:** Non-minified static build with Tailwind CSS and JS kept readable for easy editing, includes source maps and full feature set. Heavier but fully editable.<br>**PT:** Build estático não minificado com Tailwind CSS e JS mantidos legíveis para fácil edição, inclui *source maps* e conjunto completo de funcionalidades. Mais pesado mas totalmente editável. |
 
 ---
 
