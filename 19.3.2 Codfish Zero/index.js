@@ -1,5 +1,5 @@
 /*
- * Codfish Kiwi – Simplified Portuguese SEO and readability analyzer.
+ * Codfish Zero – Simplified Portuguese SEO and readability analyzer.
  */
 
 (() => {
